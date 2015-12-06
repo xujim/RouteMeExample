@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F7C60B07A474CE89C3E9D277DF582C98B0D0D925",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2F37BB6C93E2A5FF82304E20429DF9F1BA1C903" : 0,
+    "F7C60B07A474CE89C3E9D277DF582C98B0D0D925" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54BEFE06-BAF8-4B52-9892-14F599A32652",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2F37BB6C93E2A5FF82304E20429DF9F1BA1C903" : "JSBridge\/",
+    "F7C60B07A474CE89C3E9D277DF582C98B0D0D925" : "RouteMeExample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RouteExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RouteExample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xujim\/JSBridge.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2F37BB6C93E2A5FF82304E20429DF9F1BA1C903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xujim\/RouteMeExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7C60B07A474CE89C3E9D277DF582C98B0D0D925"
+    }
+  ]
+}

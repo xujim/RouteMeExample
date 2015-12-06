@@ -1,0 +1,19 @@
+PODS:
+  - JSBridge (1.0.1)
+  - RouteMe (1.0.1)
+
+DEPENDENCIES:
+  - JSBridge (from `/Users/yujie/Desktop/JSBridge/JSBridgeiOS.podspec`)
+  - RouteMe (from `./RouteMe/RouteMeiOS.podspec`)
+
+EXTERNAL SOURCES:
+  JSBridge:
+    :path: /Users/yujie/Desktop/JSBridge/JSBridgeiOS.podspec
+  RouteMe:
+    :path: ./RouteMe/RouteMeiOS.podspec
+
+SPEC CHECKSUMS:
+  JSBridge: f91ed50de67a58b25798368a736b8d8ae788d278
+  RouteMe: c2390edbb567e244460d4c9943cfca5e7049314e
+
+COCOAPODS: 0.35.0
